@@ -4,6 +4,7 @@ st.title("My Streamlit App")
 
 
 st.title("用streamlit 架站")
+st.write("何謂CI/CD")
 
 #左側選單
 #st.sidebar.title("選單")
