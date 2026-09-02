@@ -3,6 +3,7 @@ import streamlit as st
 #Layout (A) Main
 st.title("研究肺癌臨床治療存活率")
 st.divider()
+st.logo("img/logo.png",size="large")
 
 
 col1, col2 = st.columns(2) # columns(2)~表示建立2欄位(左,右)的區塊, col1~表示左欄位, col2~表示右欄位
